@@ -16,6 +16,9 @@ const Footer: React.FC = () => {
         <p className="text-divine-golden text-xs mt-2">
           "Some messages are meant to travel through time and space to find their way home"
         </p>
+        <p className="text-divine-golden text-xs mt-1">
+          Radhe Radhe
+        </p>
       </div>
     </footer>
   );

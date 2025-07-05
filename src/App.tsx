@@ -6,6 +6,7 @@ import StorySection from './components/StorySection';
 import AttemptsSection from './components/AttemptsSection';
 import DivineConnectionSection from './components/DivineConnectionSection';
 import FinalMessageSection from './components/FinalMessageSection';
+import LastWishSection from './components/LastWishSection';
 import Footer from './components/Footer';
 
 function App() {
@@ -81,6 +82,7 @@ function App() {
           <AttemptsSection />
           <DivineConnectionSection />
           <FinalMessageSection />
+          <LastWishSection />
           <Footer />
         </motion.div>
       )}
